@@ -1,0 +1,5 @@
+qualify: 権利を得る
+confident: 確信している
+predict: 予言する
+confidence: 確信
+opponent: 相手
